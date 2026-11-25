@@ -1,5 +1,5 @@
-import secure from '../assets/projects/secure.png'
-import learn from '../assets/projects/ilearnit.png'
+import secure from '../assets/projects/secure-screen.png'
+import learn from '../assets/projects/learn-screen.png'
 import car from '../assets/projects/car.jpg'
 import solar from '../assets/projects/solar.jpg'
 
